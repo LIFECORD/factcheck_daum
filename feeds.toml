@@ -34,7 +34,7 @@ linkSelector = "a"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
 
-[factcheck]
+[daum_factcheck]
 title = "다음 뉴스 ─ 팩트체크"
 url = "https://focus.daum.net/ch/news/factcheck"
 entrySelector = "ul.list_news.type2 li"
