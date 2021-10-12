@@ -1,12 +1,3 @@
-[jtbc_factcheck]
-title = "다음 뉴스 ─ JTBC 팩트체크"
-url = "https://news.daum.net/series/1453"
-entrySelector = "ul.list_news li"
-titleSelector = "a.link_txt"
-linkSelector = "a"
-contentSelector = "p.desc_thumb"
-waitUntil = "networkidle"
-
 [sbs_factcheck]
 title = "다음 뉴스 ─ SBS 사실은"
 url = "https://news.daum.net/series/252353"
@@ -15,6 +6,7 @@ titleSelector = "a.link_txt"
 linkSelector = "a"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [mbc_factcheck]
 title = "다음 뉴스 ─ MBC 알고보니"
@@ -24,6 +16,7 @@ titleSelector = "a.link_txt"
 linkSelector = "a"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [kbs_factcheck]
 title = "다음 뉴스 ─ KBS 팩트체크K"
@@ -33,3 +26,54 @@ titleSelector = "a.link_txt"
 linkSelector = "a"
 contentSelector = "p.desc_thumb"
 waitUntil = "networkidle"
+onFail = "stale"
+
+[channela_factman]
+title = "다음 뉴스 ─ 채널A 팩트맨"
+url = "https://news.daum.net/series/5157383"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[khan_factcheck]
+title = "다음 뉴스 ─ 경향신문 팩트체크"
+url = "https://news.daum.net/series/5028270"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ohmynews_ohmyfact]
+title = "다음 뉴스 ─ 오마이뉴스 오마이팩트"
+url = "https://news.daum.net/series/5175756"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a"
+contentSelector = "p.desc_thumb"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[jtbc_factcheck]
+title = "다음 뉴스 ─ JTBC 팩트체크"
+url = "https://news.daum.net/series/1453"
+entrySelector = "ul.list_news li"
+titleSelector = "a.link_txt"
+linkSelector = "a"
+contentSelector = "p.desc_thumb"
+waitForSelector = ".list_news"
+onFail = "stale"
+
+[factcheck]
+title = "다음 뉴스 ─ 팩트체크"
+url = "https://focus.daum.net/ch/news/factcheck"
+entrySelector = "ul.list_news.news_type2 li"
+titleSelector = "strong.tit_txt"
+linkSelector = "a"
+contentSelector = "div.desc_thumb"
+waitUntil = "networkidle"
+onFail = "stale"
