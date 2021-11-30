@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-30T11:18:33.584Z</updated>
+    <updated>2021-11-30T12:28:48.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실은] "화교는 특별전형으로 의대 간다" 따져봤더니]]></title>
+        <id>https://v.daum.net/v/20211130210621752</id>
+        <link href="https://v.daum.net/v/20211130210621752"/>
+        <updated>2021-11-30T12:28:48.308Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 입시철인데 요즘 온라인에서 일부 대학 의대, 한의대가 '화교 특별전형'을 시행한다는 소문이 퍼지고 있습니다. 팩트체크 '사실은'팀 이경원 기자가 확인해봤습니다. &lt;기자&gt; 일부 대학 의대, 한의대가 화교 특별전형으로 학생을 뽑고 있다는 이 글은 조회 수가 30만을 넘었습니다. 이 대학도 그렇다, 저 대학도 그렇다, 다른 대학들 입시 요강도 발췌돼 돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]현실 못 따라가는 문콕방지법?]]></title>
         <id>https://v.daum.net/v/20211130200950609</id>
         <link href="https://v.daum.net/v/20211130200950609"/>
         <updated>2021-11-30T11:18:32.979Z</updated>
-        <content type="html"><![CDATA[지난달 온라인 커뮤니티에&nbsp;올라온 사진입니다. SUV 차량 주인이&nbsp;주차 구역에 맞춰 차를 댔는데,&nbsp;옆 차량 주인이 문을 열 수 없다며&nbsp;"차 타지 말라는 거냐"고 항의했다는 내용인데요. 차박 등이 유행하면서&nbsp;대형 SUV 등 출시 차량의 몸집이 점점 커지고 있지만&nbsp;주차장 크기는 이런 추세를 못 따르고 있는데&nbsp;그 이유를 따져봅니다. 중대형 차량 선호가 늘면]]></content>
+        <content type="html"><![CDATA[지난달 온라인 커뮤니티에&nbsp;올라온 사진입니다. SUV 차량 주인이&nbsp;주차 구역에 맞춰 차를 댔는데,&nbsp;옆 차량 주인이 문을 열 수 없다며&nbsp;"차 타지 말라는 거냐"고 항의했다는 내용인데요. 차박 등이 유행하면서&nbsp;대형 SUV 등 출시 차량의 몸집이 점점 커지고 있지만&nbsp;주차장 크기는 이런 추세를 못 따르고 있는데&nbsp;그 이유를 따져봅니다. 중대형 차량 선호가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크K] 반복되는 택지지구 주차난..LH·청주시 '책임공방']]></title>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211126102701212"/>
         <updated>2021-11-26T02:34:45.901Z</updated>
         <content type="html"><![CDATA[전두환 씨가 세상을 떠났습니다. 반성이나 사죄의 메시지를 남기지 않았습니다. 5·18민주화운동 당시, 수많은 사람을 희생시켰던 발포 명령이 다시 도마 위에 올랐습니다. 전두환 씨 측 민정기 비서관은 전 씨의 사망 당일, 발포 명령에 대한 질문에 이렇게 답했습니다. ▲ 지난 23일, 서울 연희동 전두환 씨 자택 앞에서 전 씨의 사망을 공식 발표하는 민정기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스AS] 임차인에 종부세 떠넘기기? '학군 수요' 대치동서는 가능성 높아]]></title>
-        <id>https://v.daum.net/v/20211126093602327</id>
-        <link href="https://v.daum.net/v/20211126093602327"/>
-        <updated>2021-11-26T01:03:47.496Z</updated>
-        <content type="html"><![CDATA[다주택자와 법인 중심으로 올해 종합부동산세가 급증한 가운데 이들이 세부담을 임차인에게 전가시킬 수 있다는 우려가 나오고 있다. 종부세와 재산세를 더해 보유세액이 수천만원에서 1억원이 넘는 다주택자들의 사례가 회자되면서, 임차인들은 ‘보유세 강화 정책’의 유탄을 맞지 않을까 노심초사할 수밖에 없다. 급증한 보유세 부담에 따른 조세 전가는 어느 정도 현실화할]]></content>
     </entry>
 </feed>

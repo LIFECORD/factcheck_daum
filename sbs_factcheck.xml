@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-11-30T11:18:33.588Z</updated>
+    <updated>2021-11-30T12:28:48.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["화교는 특별전형으로 의대 간다" 따져봤더니]]></title>
+        <id>https://v.daum.net/v/20211130210621752</id>
+        <link href="https://v.daum.net/v/20211130210621752"/>
+        <updated>2021-11-30T12:27:02.691Z</updated>
+        <content type="html"><![CDATA[&lt;앵커&gt; 입시철인데 요즘 온라인에서 일부 대학 의대, 한의대가 '화교 특별전형'을 시행한다는 소문이 퍼지고 있습니다. 팩트체크 '사실은'팀 이경원 기자가 확인해봤습니다. &lt;기자&gt; 일부 대학 의대, 한의대가 화교 특별전형으로 학생을 뽑고 있다는 이 글은 조회 수가 30만을 넘었습니다. 이 대학도 그렇다, 저 대학도 그렇다, 다른 대학들 입시 요강도 발췌돼 돌]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다른 나라는 여경을 어떻게 뽑나요?]]></title>
         <id>https://v.daum.net/v/20211130095703322</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211029115704761"/>
         <updated>2021-10-29T03:21:07.719Z</updated>
         <content type="html"><![CDATA[정치의 시간입니다. 내년 3월 대통령 선거를 앞두고 여론조사 결과가 우후죽순처럼 쏟아집니다. 여론조사마다 결과는 들쑥날쑥 입니다. 그런데 이런 얘기 들어보셨죠? 여론조사 할 때 유선 전화 비율이 높으면 보수 진영에 유리하고, 휴대 전화로만 하면 진보 진영에 유리하다… 선거철마다 나오는 말인데, 저희 사실은팀에 검증 요청이 들어왔습니다. 아무래도 젊은 분보다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 위안부 망언..'심문 보고서 49호'의 진실]]></title>
-        <id>https://v.daum.net/v/20211027110900953</id>
-        <link href="https://v.daum.net/v/20211027110900953"/>
-        <updated>2021-10-27T04:26:06.216Z</updated>
-        <content type="html"><![CDATA[지난 25일 뉴욕타임스(NYT)가 일본군 위안부 피해 사실을 고발했던 고(故) 김학순 인권운동가의 부고 기사를 실었습니다. '지나쳤던 인물들'(Overlooked) 시리즈의 일환입니다. 이 시리즈는 제대로 보도하지 못한 인물의 부고 기사를 통해 늦게 나마 삶을 조명하려는 취지에서 기획됐습니다. 신문은 전문가의 말을 인용, "김학순 운동가는 20세기 가장 용]]></content>
     </entry>
 </feed>
