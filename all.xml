@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/factcheck_daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-30T13:20:47.746Z</updated>
+    <updated>2021-11-30T14:20:07.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA["화교는 특별전형으로 의대 간다" 따져봤더니 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -257,6 +257,13 @@
         <content type="html"><![CDATA[문재인 정부 마지막 해인 내년 최저임금이 확정됐습니다. 최저임금위원회가 지난 13일 의결한 2022년 최저임금은 시급 9,160원입니다. 문 대통령이 대통령 후보이던 2017년은 시급 6,470원이었습니다. 당시 문 후보는 2020년까지 시급 10,000원을 공약으로 제시했는데 결과적으로 지키지 못했습니다. 언론 매체들은 문재인 정부가 최저임금 시급]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[현실 못 따라가는 문콕방지법? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
+        <id>https://v.daum.net/v/20211130200950609</id>
+        <link href="https://v.daum.net/v/20211130200950609"/>
+        <updated>2021-11-30T11:18:32.979Z</updated>
+        <content type="html"><![CDATA[지난달 온라인 커뮤니티에&nbsp;올라온 사진입니다. SUV 차량 주인이&nbsp;주차 구역에 맞춰 차를 댔는데,&nbsp;옆 차량 주인이 문을 열 수 없다며&nbsp;"차 타지 말라는 거냐"고 항의했다는 내용인데요. 차박 등이 유행하면서&nbsp;대형 SUV 등 출시 차량의 몸집이 점점 커지고 있지만&nbsp;주차장 크기는 이런 추세를 못 따르고 있는데&nbsp;그 이유를 따져봅니다. 중대형 차량 선호가]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[월패드 해킹 막으려면? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
         <id>https://v.daum.net/v/20211129200556948</id>
         <link href="https://v.daum.net/v/20211129200556948"/>
@@ -332,13 +339,6 @@
         <link href="https://v.daum.net/v/20211109200053577"/>
         <updated>2021-11-09T11:22:48.349Z</updated>
         <content type="html"><![CDATA[오늘 팩트맨은 요소수 대란 이후&nbsp;시청자께서 궁금해하는 사안 위주로 따져보겠습니다. 먼저 농사지을 때 쓰는 요소 비료에&nbsp;물을 타서 쓰면 안 되냐는 질문입니다. 관련해서 직접 요소수를 만들었다는&nbsp;영상볼까요. 준비해둔 통에다 정제수를 붓더니,&nbsp;요소 비료를 집어넣고 섞습니다. "요소수를 다 만들었습니다. 그런데 제 차에 집어넣지는 않습니다.&nbsp; 제]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCR 떼면 요소수 없이 운행 가능? (다음 뉴스 ─ 채널A 팩트맨)]]></title>
-        <id>https://v.daum.net/v/20211108195956967</id>
-        <link href="https://v.daum.net/v/20211108195956967"/>
-        <updated>2021-11-08T11:17:42.928Z</updated>
-        <content type="html"><![CDATA[요소수 품귀 현상이 지속되면서&nbsp;경유차의 질소산화물 저감장치&nbsp;즉 SCR을 아예 제거하면 안 되느냐는&nbsp;질문이 나오는데,&nbsp;가능한지 확인해봅니다. 결론부터 말씀드리면 시동이 안 걸려서&nbsp;정상 운행이 불가능할 수 있는 데다,&nbsp;차에 엄청난 손상을&nbsp;줄 수 있습니다. [이호근 / 대덕대 자동차학과 교수] "아예 (SCR을) 잘라버리고 아무 조치 없이 그대로]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무효표 처리, 결선투표 누구 말이 맞나 (다음 뉴스 ─ 경향신문 팩트체크)]]></title>
@@ -596,7 +596,7 @@
         <title type="html"><![CDATA[[팩트체크K] 반복되는 택지지구 주차난..LH·청주시 '책임공방' (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211130220712529</id>
         <link href="https://v.daum.net/v/20211130220712529"/>
-        <updated>2021-11-30T13:20:47.001Z</updated>
+        <updated>2021-11-30T13:18:22.890Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] KBS는 청주 동남지구 등  택지개발 지구마다 발생하는 극심한 주차난에 대해 연속 보도하고 있습니다. 반복되는 주차난은 택지개발 사업 시행자인 LH와 택지 준공 이후 관리 주체인 청주시 중 어느 기관의 책임일까요? 팩트체크K, 정진규 기자입니다. [리포트] 신규 택지개발 지구마다 반복되는 극심한 주차난. 밤이 되면 건널목은 물론 교]]></content>
     </entry>
     <entry>
