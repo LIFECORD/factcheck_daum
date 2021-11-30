@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/252353</id>
     <title>다음 뉴스 ─ SBS 사실은</title>
-    <updated>2021-11-29T23:21:33.081Z</updated>
+    <updated>2021-11-30T01:04:58.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다른 나라는 여경을 어떻게 뽑나요?]]></title>
+        <id>https://v.daum.net/v/20211130095703322</id>
+        <link href="https://v.daum.net/v/20211130095703322"/>
+        <updated>2021-11-30T01:04:02.704Z</updated>
+        <content type="html"><![CDATA[최근 경찰의 부실 대응이 도마 위에 올랐습니다. 사회적으로 공분이 일었습니다.&nbsp; 논란은 '여경 무용론'으로까지 번졌습니다. 여경을 선발할 때 체력 기준이 낮다는 지적이 함께 나왔습니다. 외국과 비교하는 언론 보도도 계속 나오고 있습니다. 외국의 경찰 체력 시험의 경우, 누구는 남녀 기준이 다르다고 하고, 또 누구는 같다고 합니다. 주로 미국 사례가 자주 거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
         <id>https://v.daum.net/v/20211126102701212</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211027110900953"/>
         <updated>2021-10-27T04:26:06.216Z</updated>
         <content type="html"><![CDATA[지난 25일 뉴욕타임스(NYT)가 일본군 위안부 피해 사실을 고발했던 고(故) 김학순 인권운동가의 부고 기사를 실었습니다. '지나쳤던 인물들'(Overlooked) 시리즈의 일환입니다. 이 시리즈는 제대로 보도하지 못한 인물의 부고 기사를 통해 늦게 나마 삶을 조명하려는 취지에서 기획됐습니다. 신문은 전문가의 말을 인용, "김학순 운동가는 20세기 가장 용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열과 홍준표의 데이터, 팩트체크 했습니다.]]></title>
-        <id>https://v.daum.net/v/20211023095100678</id>
-        <link href="https://v.daum.net/v/20211023095100678"/>
-        <updated>2021-10-23T01:06:31.557Z</updated>
-        <content type="html"><![CDATA[국민의힘 대선 경선 토론이 한창입니다. 지난 11일 광주·전북·전남 합동 토론을 시작으로, 오는 30일까지 진행됩니다. 다음 달 1일부터 이틀 간 모바일 투표, 3일부터 이틀 간 ARS 투표 및 국민 여론조사를 한 뒤, 5일 전당대회에서 국민의힘 대통령 후보가 최종 결정됩니다. SBS 사실은팀은 민주당 대권주자 토론회 당시 나온 말들을 팩트체크 한 적 있습]]></content>
     </entry>
 </feed>

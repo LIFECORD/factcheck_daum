@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/factcheck_daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-29T23:21:33.092Z</updated>
+    <updated>2021-11-30T01:04:58.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[다른 나라는 여경을 어떻게 뽑나요? (다음 뉴스 ─ SBS 사실은)]]></title>
+        <id>https://v.daum.net/v/20211130095703322</id>
+        <link href="https://v.daum.net/v/20211130095703322"/>
+        <updated>2021-11-30T01:04:02.704Z</updated>
+        <content type="html"><![CDATA[최근 경찰의 부실 대응이 도마 위에 올랐습니다. 사회적으로 공분이 일었습니다.&nbsp; 논란은 '여경 무용론'으로까지 번졌습니다. 여경을 선발할 때 체력 기준이 낮다는 지적이 함께 나왔습니다. 외국과 비교하는 언론 보도도 계속 나오고 있습니다. 외국의 경찰 체력 시험의 경우, 누구는 남녀 기준이 다르다고 하고, 또 누구는 같다고 합니다. 주로 미국 사례가 자주 거]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['발포 명령' 팩트체크, 내년 5월에도 해야 할까요? (다음 뉴스 ─ SBS 사실은)]]></title>
         <id>https://v.daum.net/v/20211126102701212</id>
@@ -80,13 +87,6 @@
         <link href="https://v.daum.net/v/20211027110900953"/>
         <updated>2021-10-27T03:23:19.769Z</updated>
         <content type="html"><![CDATA[지난 25일 뉴욕타임스(NYT)가 일본군 위안부 피해 사실을 고발했던 고(故) 김학순 인권운동가의 부고 기사를 실었습니다. '지나쳤던 인물들'(Overlooked) 시리즈의 일환입니다. 이 시리즈는 제대로 보도하지 못한 인물의 부고 기사를 통해 늦게 나마 삶을 조명하려는 취지에서 기획됐습니다. 신문은 전문가의 말을 인용, "김학순 운동가는 20세기 가장 용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열과 홍준표의 데이터, 팩트체크 했습니다. (다음 뉴스 ─ SBS 사실은)]]></title>
-        <id>https://v.daum.net/v/20211023095100678</id>
-        <link href="https://v.daum.net/v/20211023095100678"/>
-        <updated>2021-10-23T01:06:31.557Z</updated>
-        <content type="html"><![CDATA[국민의힘 대선 경선 토론이 한창입니다. 지난 11일 광주·전북·전남 합동 토론을 시작으로, 오는 30일까지 진행됩니다. 다음 달 1일부터 이틀 간 모바일 투표, 3일부터 이틀 간 ARS 투표 및 국민 여론조사를 한 뒤, 5일 전당대회에서 국민의힘 대통령 후보가 최종 결정됩니다. SBS 사실은팀은 민주당 대권주자 토론회 당시 나온 말들을 팩트체크 한 적 있습]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[눈치 안보고 놀려면 아파트 살아야? (다음 뉴스 ─ MBC 알고보니)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[김만배/화천대유 대주주 (어제) : (50억원은 너무 큰 거 아닌가라는 의혹이 있었는데…) 산재를 입었어요, 그분이. 산재를 입어가지고…] [앵커] 곧바로 팩트체크 이어갑니다. 곽상도 의원 아들이 퇴직하며 받은 50억 원에 대해, 화천대유는 이 중 44억 원 정도가 '산재 위로금'이었다고 주장했습니다. 하지만, 회사가 알아서 이런 거액의 위로금을 주는 사]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[사실은] 다른 나라는 여경을 어떻게 뽑나요? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211130095703322</id>
+        <link href="https://v.daum.net/v/20211130095703322"/>
+        <updated>2021-11-30T01:04:57.012Z</updated>
+        <content type="html"><![CDATA[최근 경찰의 부실 대응이 도마 위에 올랐습니다. 사회적으로 공분이 일었습니다.&nbsp; 논란은 '여경 무용론'으로까지 번졌습니다. 여경을 선발할 때 체력 기준이 낮다는 지적이 함께 나왔습니다. 외국과 비교하는 언론 보도도 계속 나오고 있습니다. 외국의 경찰 체력 시험의 경우, 누구는 남녀 기준이 다르다고 하고, 또 누구는 같다고 합니다. 주로 미국 사례가 자주 거]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[팩트맨]월패드 해킹 막으려면? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211129200556948</id>
         <link href="https://v.daum.net/v/20211129200556948"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211125203111088"/>
         <updated>2021-11-25T12:32:28.193Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난주 인천에서 일어난 층간소음 흉기 난동 사건. 경찰관이 흉기를 든 가해자와 피해자를 내버려둔 채 현장을 이탈했는데 이 경찰관이 여성인 것으로 알려지면서 이른바 '여경 무용론'이 거세게 일었죠. 하지만 당시 함께 출동한 19년차, 이른바 '베테랑' 남성 경찰도 현장을 이탈한 사실이 뒤늦게 알려졌습니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실확인] '예우 박탈' 전두환 사망해도 부인 이순자 경호는 계속? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211125200321681</id>
-        <link href="https://v.daum.net/v/20211125200321681"/>
-        <updated>2021-11-25T11:18:25.798Z</updated>
-        <content type="html"><![CDATA[【 앵커멘트 】 전직 대통령 예우가 박탈됐던 전두환 씨는 경찰 경호는 계속 받아왔는데, 사망 이후 부인 이순자 씨의 경호는 어떻게 될까요? 표선우 기자가 사실확인에서 알아봤습니다. 【 기자 】 '전직 대통령 예우에 관한 법률' 제6조에 따르면 전직 대통령은 경호와 경비 대상입니다. 같은 법 제7조를 보면 대통령 예우를 박탈하더라도 경호와 경비는]]></content>
     </entry>
 </feed>
