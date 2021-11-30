@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-30T12:28:48.899Z</updated>
+    <updated>2021-11-30T13:20:47.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 반복되는 택지지구 주차난..LH·청주시 '책임공방']]></title>
+        <id>https://v.daum.net/v/20211130220712529</id>
+        <link href="https://v.daum.net/v/20211130220712529"/>
+        <updated>2021-11-30T13:20:47.001Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] KBS는 청주 동남지구 등  택지개발 지구마다 발생하는 극심한 주차난에 대해 연속 보도하고 있습니다. 반복되는 주차난은 택지개발 사업 시행자인 LH와 택지 준공 이후 관리 주체인 청주시 중 어느 기관의 책임일까요? 팩트체크K, 정진규 기자입니다. [리포트] 신규 택지개발 지구마다 반복되는 극심한 주차난. 밤이 되면 건널목은 물론 교]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] "화교는 특별전형으로 의대 간다" 따져봤더니]]></title>
         <id>https://v.daum.net/v/20211130210621752</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211126231201564"/>
         <updated>2021-11-27T01:04:20.090Z</updated>
         <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;이재명 더불어민주당 대선 후보가 24일 서울 여의도 중앙당사에서 열린 기자간담회에서 기자들의 질문에 답하고 있다.    ⓒ 공동취재사진  &nbsp;[검증대상] 이재명 "산부인과 명칭은 여성을 부인으로 칭했던 일제 잔재" "산부인과라는 명칭은 여성을 부인으로 칭했던 일제 잔재입니다. 여전히 여성 건강과 질환을 부인병으로 부르는 시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '발포 명령' 팩트체크, 내년 5월에도 해야 할까요?]]></title>
-        <id>https://v.daum.net/v/20211126102701212</id>
-        <link href="https://v.daum.net/v/20211126102701212"/>
-        <updated>2021-11-26T02:34:45.901Z</updated>
-        <content type="html"><![CDATA[전두환 씨가 세상을 떠났습니다. 반성이나 사죄의 메시지를 남기지 않았습니다. 5·18민주화운동 당시, 수많은 사람을 희생시켰던 발포 명령이 다시 도마 위에 올랐습니다. 전두환 씨 측 민정기 비서관은 전 씨의 사망 당일, 발포 명령에 대한 질문에 이렇게 답했습니다. ▲ 지난 23일, 서울 연희동 전두환 씨 자택 앞에서 전 씨의 사망을 공식 발표하는 민정기]]></content>
     </entry>
 </feed>
