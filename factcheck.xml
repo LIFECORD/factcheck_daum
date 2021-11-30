@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-11-30T10:20:39.739Z</updated>
+    <updated>2021-11-30T11:18:33.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]현실 못 따라가는 문콕방지법?]]></title>
+        <id>https://v.daum.net/v/20211130200950609</id>
+        <link href="https://v.daum.net/v/20211130200950609"/>
+        <updated>2021-11-30T11:18:32.979Z</updated>
+        <content type="html"><![CDATA[지난달 온라인 커뮤니티에&nbsp;올라온 사진입니다. SUV 차량 주인이&nbsp;주차 구역에 맞춰 차를 댔는데,&nbsp;옆 차량 주인이 문을 열 수 없다며&nbsp;"차 타지 말라는 거냐"고 항의했다는 내용인데요. 차박 등이 유행하면서&nbsp;대형 SUV 등 출시 차량의 몸집이 점점 커지고 있지만&nbsp;주차장 크기는 이런 추세를 못 따르고 있는데&nbsp;그 이유를 따져봅니다. 중대형 차량 선호가 늘면]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 반복되는 택지지구 주차난..LH·청주시 '책임공방']]></title>
+        <id>https://v.daum.net/v/20211130192520681</id>
+        <link href="https://v.daum.net/v/20211130192520681"/>
+        <updated>2021-11-30T11:18:32.980Z</updated>
+        <content type="html"><![CDATA[[KBS 청주] [앵커] KBS는 청주 동남지구 등  택지개발 지구마다 반복되는 극심한 주차난에 대해 연속 보도하고 있는데요. 오늘은 택지개발지구 주차난에 대한 책임을 살펴봤습니다. 택지개발 사업 시행자인 LH와 택지 준공 이후 관리 주체인 청주시, 두 기관 중 어느 기관이 주차난에 대한 책임을 져야 하는 걸까요? 팩트체크K, 정진규 기자입니다. [리포트]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 다른 나라는 여경을 어떻게 뽑나요?]]></title>
         <id>https://v.daum.net/v/20211130095703322</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20211126093602327"/>
         <updated>2021-11-26T01:03:47.496Z</updated>
         <content type="html"><![CDATA[다주택자와 법인 중심으로 올해 종합부동산세가 급증한 가운데 이들이 세부담을 임차인에게 전가시킬 수 있다는 우려가 나오고 있다. 종부세와 재산세를 더해 보유세액이 수천만원에서 1억원이 넘는 다주택자들의 사례가 회자되면서, 임차인들은 ‘보유세 강화 정책’의 유탄을 맞지 않을까 노심초사할 수밖에 없다. 급증한 보유세 부담에 따른 조세 전가는 어느 정도 현실화할]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 확진자 확 줄어든 일본, 구충제가 특효약이다?]]></title>
-        <id>https://v.daum.net/v/20211125204505275</id>
-        <link href="https://v.daum.net/v/20211125204505275"/>
-        <updated>2021-11-25T12:33:11.592Z</updated>
-        <content type="html"><![CDATA[[앵커] 일본은 코로나 환자가 급격히 줄었는데, 왜냐는 질문을 놓고 아직 이렇다 할 답이 없는 상황입니다. 온라인에선 구충제를 치료제로 쓴 덕분이라는 루머까지 퍼졌습니다. 하지만 "구충제가 특효약"이라는 주장 코로나 창궐 이후, 이미 전세계에 돌고 있는 거짓 정보입니다. 팩트체크팀, 최재원 기자입니다. [기자] "일본 감염자가 급감한 이유는 이버멕틴 덕분이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 여경 무용론 누가 불지피나]]></title>
-        <id>https://v.daum.net/v/20211125203111088</id>
-        <link href="https://v.daum.net/v/20211125203111088"/>
-        <updated>2021-11-25T12:33:11.592Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난주 인천에서 일어난 층간소음 흉기 난동 사건. 경찰관이 흉기를 든 가해자와 피해자를 내버려둔 채 현장을 이탈했는데 이 경찰관이 여성인 것으로 알려지면서 이른바 '여경 무용론'이 거세게 일었죠. 하지만 당시 함께 출동한 19년차, 이른바 '베테랑' 남성 경찰도 현장을 이탈한 사실이 뒤늦게 알려졌습니다.]]></content>
     </entry>
 </feed>
