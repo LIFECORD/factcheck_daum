@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-12-01T11:18:43.833Z</updated>
+    <updated>2021-12-01T12:34:37.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["위헌" 윤창호법..상습음주운전 처벌 약해지나]]></title>
+        <id>https://v.daum.net/v/20211201202508353</id>
+        <link href="https://v.daum.net/v/20211201202508353"/>
+        <updated>2021-12-01T12:33:29.297Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 2018년 음주운전 사고로  세상을 떠난 윤창호 씨, 음주운전자에 대한 처벌 기준을 강화하기 위해 그의 이름을 딴 윤창호법이 만들어졌죠. 그런데 "두 번째 음주운전부터 처벌을 강화한다"는 법 조항에 대해 최근 위헌 결정이 내려졌습니다. 이후 윤창호법으로 가중 처벌을 받은 개인은 처벌이 약해질거라 환]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈치 안보고 놀려면 아파트 살아야?]]></title>
         <id>https://v.daum.net/v/20211127100113432</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211026201011702"/>
         <updated>2021-10-26T11:17:00.834Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 전직 대통령 노태우 씨가 숨지면서 오늘 하루종일 노 씨가 국립현충원에 안장될 수 있나 없나 관련 기사들이 쏟아져 나왔습니다. 국가보훈처에 직접 물어봤는데요. 답변은 '안장대상이 아니다'라는 거였습니다. 정부가 아니라고 하는데도 왜 이런 기사 계속 나오고 안장여부가 관심사가 되는지 알아봤습니다. ◀ 리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 곳까지 몰래카메라가?..왜 제한 못하나]]></title>
-        <id>https://v.daum.net/v/20211022203406078</id>
-        <link href="https://v.daum.net/v/20211022203406078"/>
-        <updated>2021-10-22T12:31:27.269Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 불법촬영 범죄, 하루가 멀다 하고 연일 뉴스에 등장합니다. 모텔직원과 짜고 전 객실에 초소형 카메라를 설치하거나, 가방에 스마트폰을 숨기고 다니면서 여성들의 신체를 촬영한 사건, 중학생이 휴대전화로 학교·학원 화장실에서 불법촬영을 한 사건.. 모두 최근 며칠 새 보도된 사건들인데요. 불법촬영이 기승을 부리는]]></content>
     </entry>
 </feed>
