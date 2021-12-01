@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-01T05:21:00.232Z</updated>
+    <updated>2021-12-01T06:27:02.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크K] 새 변이 이름 '오미크론', 시진핑 의식해 지었다?]]></title>
+        <id>https://v.daum.net/v/20211201151530878</id>
+        <link href="https://v.daum.net/v/20211201151530878"/>
+        <updated>2021-12-01T06:27:01.506Z</updated>
+        <content type="html"><![CDATA[겨울의 문턱에 등장한 코로나19 신종 변이 바이러스의 충격이 전 세계에 확산하고 있습니다. 이 변이 바이러스는 지난달 초 남아프리카에서 처음 발견됐습니다. 세계보건기구(WHO)는 지난달 26일(현지시간) 이 바이러스에 '오미크론(ο)'이라는 이름을 붙이고 '우려 변이' 로 분류했습니다. 전파력이 기존보다 더 강하고 치명률도 높을 수 있다고 추정했기 때문입]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오세훈 서울시장이 '서울 대안교육기관' 지원예산 깎았다? [팩트체크]]]></title>
         <id>https://v.daum.net/v/20211201104903919</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211129200556948"/>
         <updated>2021-11-29T11:18:19.737Z</updated>
         <content type="html"><![CDATA[요즘 아파트에 월패드 많이 설치돼있죠. 이걸로 현관 밖을 확인하거나&nbsp;경비실과 통화도 할 수 있는데요. 최근 전국 아파트&nbsp;월패드 해킹 영상과 명단이 돌면서,&nbsp;경찰이 수사에 착수했습니다. 월패드 해킹,&nbsp;막을 방법 있는지 따져봅니다. 사건이 처음 알려진 건&nbsp;지난달 홍콩 웹사이트에&nbsp;올라온 이 게시물 때문입니다. 해커들이 'h국' 즉 한국 아파트&nbsp;스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] D-100 여론조사 1위가 대선 승리?]]></title>
-        <id>https://v.daum.net/v/20211128044614788</id>
-        <link href="https://v.daum.net/v/20211128044614788"/>
-        <updated>2021-11-27T20:24:58.352Z</updated>
-        <content type="html"><![CDATA[[앵커] 내일(29일)인 월요일이 20대 대선 D-100일입니다. 선거가 코앞으로 다가온 만큼, 선택을 굳혀가는 유권자들도 늘고 있죠. 그래서 D-100일 여론조사 1위 후보가 대선 승리를 거머쥔다는 분석이 나옵니다. 실제로 그랬는지 따져봤습니다. 팩트와이, 박희재 기자입니다. [기자] 외환위기의 폭풍 속에 치러진 15대 대선. 선거 100일]]></content>
     </entry>
 </feed>
