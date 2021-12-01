@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-01T12:34:37.373Z</updated>
+    <updated>2021-12-01T13:27:57.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트와이] 오미크론, 에이즈 환자에게서 처음 나타났다?]]></title>
+        <id>https://v.daum.net/v/20211201221008857</id>
+        <link href="https://v.daum.net/v/20211201221008857"/>
+        <updated>2021-12-01T13:27:56.593Z</updated>
+        <content type="html"><![CDATA[[앵커] 전 세계를 패닉으로 몰아넣고 있는 오미크론이, 에이즈 환자에게서 비롯됐다는 보도가 잇따르고 있습니다. 이 '에이즈 기원설'의 근거는 뭔지, 팩트체크했습니다. 팩트와이, 신지원 기자입니다. [기자] 일상 회복으로 한 걸음씩 나아가던 전 세계를 다시 얼어 붙게 만든 새로운 코로나19 변이 바이러스, 오미크론. '에이즈 환자에게서 처음 발생했]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] "위헌" 윤창호법..상습음주운전 처벌 약해지나]]></title>
         <id>https://v.daum.net/v/20211201202508353</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211130200950609"/>
         <updated>2021-11-30T11:18:32.979Z</updated>
         <content type="html"><![CDATA[지난달 온라인 커뮤니티에&nbsp;올라온 사진입니다. SUV 차량 주인이&nbsp;주차 구역에 맞춰 차를 댔는데,&nbsp;옆 차량 주인이 문을 열 수 없다며&nbsp;"차 타지 말라는 거냐"고 항의했다는 내용인데요. 차박 등이 유행하면서&nbsp;대형 SUV 등 출시 차량의 몸집이 점점 커지고 있지만&nbsp;주차장 크기는 이런 추세를 못 따르고 있는데&nbsp;그 이유를 따져봅니다. 중대형 차량 선호가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 반복되는 택지지구 주차난..LH·청주시 '책임공방']]></title>
-        <id>https://v.daum.net/v/20211130192520681</id>
-        <link href="https://v.daum.net/v/20211130192520681"/>
-        <updated>2021-11-30T11:18:32.980Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] KBS는 청주 동남지구 등  택지개발 지구마다 반복되는 극심한 주차난에 대해 연속 보도하고 있는데요. 오늘은 택지개발지구 주차난에 대한 책임을 살펴봤습니다. 택지개발 사업 시행자인 LH와 택지 준공 이후 관리 주체인 청주시, 두 기관 중 어느 기관이 주차난에 대한 책임을 져야 하는 걸까요? 팩트체크K, 정진규 기자입니다. [리포트]]]></content>
     </entry>
 </feed>
