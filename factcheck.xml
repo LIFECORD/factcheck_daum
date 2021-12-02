@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-02T10:23:39.786Z</updated>
+    <updated>2021-12-02T11:18:35.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 오미크론이 크리스마스 선물? 잘못 전파된 낙관론]]></title>
+        <id>https://v.daum.net/v/20211202201304781</id>
+        <link href="https://v.daum.net/v/20211202201304781"/>
+        <updated>2021-12-02T11:18:34.842Z</updated>
+        <content type="html"><![CDATA[[앵커] 오미크론은 허위 과장 정보도 함께 몰고 왔습니다. 아직 얼마나 위험한지 정확한 분석이 나오지 않았음에도 "오미크론이 크리스마스 선물처럼 코로나 유행을 빨리 끝낼 수 있다"는 낙관론을 전하는 기사들이 나왔습니다. 하지만 외신 보도를 잘못 받아쓴 기사들이었습니다. 팩트체크 최재원 기자입니다. [기자] "오미크론 낙관론이 나온다", "코로나 종식을 앞당]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]에이즈 환자가 오미크론 변이 기원?]]></title>
+        <id>https://v.daum.net/v/20211202194856172</id>
+        <link href="https://v.daum.net/v/20211202194856172"/>
+        <updated>2021-12-02T11:18:34.846Z</updated>
+        <content type="html"><![CDATA[코로나19 변이 바이러스 오미크론이&nbsp;전세계적으로 확산 중입니다. 국내외에선 이 변이의 출발점을&nbsp;후천성 면역 결핍증,&nbsp;즉 에이즈 환자로&nbsp;지목하는 보도가 나오고 있는데&nbsp;근거가 있는지 따져봅니다. 오미크론 변이의 에이즈 환자 기원설은&nbsp;지난달 영국의 한 과학저널에 실린 글을&nbsp;근거로 삼고 있습니다. 영국 런던 유전학 연구소 소장이&nbsp;"치료를 안 받은 에이즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 오미크론, 에이즈 환자에게서 처음 나타났다?]]></title>
         <id>https://v.daum.net/v/20211201221008857</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20211130220712529"/>
         <updated>2021-11-30T13:20:47.001Z</updated>
         <content type="html"><![CDATA[[KBS 청주] [앵커] KBS는 청주 동남지구 등  택지개발 지구마다 발생하는 극심한 주차난에 대해 연속 보도하고 있습니다. 반복되는 주차난은 택지개발 사업 시행자인 LH와 택지 준공 이후 관리 주체인 청주시 중 어느 기관의 책임일까요? 팩트체크K, 정진규 기자입니다. [리포트] 신규 택지개발 지구마다 반복되는 극심한 주차난. 밤이 되면 건널목은 물론 교]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "화교는 특별전형으로 의대 간다" 따져봤더니]]></title>
-        <id>https://v.daum.net/v/20211130210621752</id>
-        <link href="https://v.daum.net/v/20211130210621752"/>
-        <updated>2021-11-30T12:28:48.308Z</updated>
-        <content type="html"><![CDATA[&lt;앵커&gt; 입시철인데 요즘 온라인에서 일부 대학 의대, 한의대가 '화교 특별전형'을 시행한다는 소문이 퍼지고 있습니다. 팩트체크 '사실은'팀 이경원 기자가 확인해봤습니다. &lt;기자&gt; 일부 대학 의대, 한의대가 화교 특별전형으로 학생을 뽑고 있다는 이 글은 조회 수가 30만을 넘었습니다. 이 대학도 그렇다, 저 대학도 그렇다, 다른 대학들 입시 요강도 발췌돼 돌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]현실 못 따라가는 문콕방지법?]]></title>
-        <id>https://v.daum.net/v/20211130200950609</id>
-        <link href="https://v.daum.net/v/20211130200950609"/>
-        <updated>2021-11-30T11:18:32.979Z</updated>
-        <content type="html"><![CDATA[지난달 온라인 커뮤니티에&nbsp;올라온 사진입니다. SUV 차량 주인이&nbsp;주차 구역에 맞춰 차를 댔는데,&nbsp;옆 차량 주인이 문을 열 수 없다며&nbsp;"차 타지 말라는 거냐"고 항의했다는 내용인데요. 차박 등이 유행하면서&nbsp;대형 SUV 등 출시 차량의 몸집이 점점 커지고 있지만&nbsp;주차장 크기는 이런 추세를 못 따르고 있는데&nbsp;그 이유를 따져봅니다. 중대형 차량 선호가]]></content>
     </entry>
 </feed>
