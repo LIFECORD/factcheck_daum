@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-03T06:25:43.159Z</updated>
+    <updated>2021-12-03T07:20:45.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[사실은] 선거는 쩐의 전쟁..우리 세금 얼마나?]]></title>
+        <title type="html"><![CDATA[[사실은] 선거는 '쩐의 전쟁'..우리 세금 얼마나 쓰일까?]]></title>
         <id>https://v.daum.net/v/20211203143903558</id>
         <link href="https://v.daum.net/v/20211203143903558"/>
         <updated>2021-12-03T06:25:42.565Z</updated>
