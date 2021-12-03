@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-03T04:28:11.282Z</updated>
+    <updated>2021-12-03T05:20:09.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노컷체크]'쥴리' '르네상스' 단어는 선관위 제재중?]]></title>
+        <id>https://v.daum.net/v/20211203134803713</id>
+        <link href="https://v.daum.net/v/20211203134803713"/>
+        <updated>2021-12-03T05:20:08.581Z</updated>
+        <content type="html"><![CDATA[핵심요약선관위 "일부 게시물 삭제 요청 맞다…'특정 단어' 쓴다고 해서 제재한 것 아냐"제20대 대통령 선거가 97일 앞으로 다가온 가운데 최근 온라인 상에서 중앙선거관리위원회(선관위)가 '쥴리', '르네상스' 등과 같은 특정 단어를 제재하고 나섰다는 주장이 제기됐다. 쥴리는 국민의힘 윤석열 대선 후보 아내인 김건희씨가 유흥업소 접객원 출신이라는 '미확인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] 오미크론이 크리스마스 선물? 잘못 전파된 낙관론]]></title>
         <id>https://v.daum.net/v/20211202201304781</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211201065219907"/>
         <updated>2021-11-30T22:21:41.640Z</updated>
         <content type="html"><![CDATA[[앵커] 전 세계를 패닉으로 몰아넣고 있는 오미크론이, 에이즈 환자에게서 비롯됐다는 보도가 잇따르고 있습니다. 이 '에이즈 기원설'의 근거는 뭔지, 팩트체크했습니다. 팩트와이, 신지원 기자입니다. [기자] 일상 회복으로 한 걸음씩 나아가던 전 세계를 다시 얼어 붙게 만든 새로운 코로나19 변이 바이러스, 오미크론. '에이즈 환자에게서 처음 발생했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] 반복되는 택지지구 주차난..LH·청주시 '책임공방']]></title>
-        <id>https://v.daum.net/v/20211130220712529</id>
-        <link href="https://v.daum.net/v/20211130220712529"/>
-        <updated>2021-11-30T13:20:47.001Z</updated>
-        <content type="html"><![CDATA[[KBS 청주] [앵커] KBS는 청주 동남지구 등  택지개발 지구마다 발생하는 극심한 주차난에 대해 연속 보도하고 있습니다. 반복되는 주차난은 택지개발 사업 시행자인 LH와 택지 준공 이후 관리 주체인 청주시 중 어느 기관의 책임일까요? 팩트체크K, 정진규 기자입니다. [리포트] 신규 택지개발 지구마다 반복되는 극심한 주차난. 밤이 되면 건널목은 물론 교]]></content>
     </entry>
 </feed>
