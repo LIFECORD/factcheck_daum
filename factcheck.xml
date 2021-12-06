@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-06T10:24:14.832Z</updated>
+    <updated>2021-12-06T11:20:31.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알고보니] 술김에 전동킥보드 탔다가..차 면허도 취소?]]></title>
+        <id>https://v.daum.net/v/20211206201604226</id>
+        <link href="https://v.daum.net/v/20211206201604226"/>
+        <updated>2021-12-06T11:20:30.998Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 유명 전직 야구 선수가 만취한 채 전동킥보드를 타다가 적발이 돼서 운전면허가 취소됐다는 소식 알려졌죠. 이게 자동차 면허까지 취소될 일인가라고 놀라는 분들도 있는데, 최근 연말연시 술자리가 늘면서 킥보드 음주운전이 늘어날 조짐이 보이고 있습니다. 술김에 섣불리 킥보드를 집어 타다가 어떤 처벌 받을 수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]'과자봉지 딱지' 재활용 불가?]]></title>
+        <id>https://v.daum.net/v/20211206200356104</id>
+        <link href="https://v.daum.net/v/20211206200356104"/>
+        <updated>2021-12-06T11:20:30.999Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨 5백 회를 맞아서 그간 제보해주신 내용 중 &lt;재활용 제대로 하는 법&gt;, Q&amp;A로 풀어봅니다. 시청자 이정수 님께서 "라면이나 과자 봉지가표면은 비닐인데 내부는 은박지라 재활용되는지 궁금하다"는 제보 주셨는데요. Q. 먼저 라면 봉지, 비닐류로 재활용될까요? A. 사실상 어렵습니다. 플라스틱 종류는 이렇게 다양합니다. 그 중 적잖은 라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트와이] 이재명 호남 지지율 낮다?.."지지율·득표율 비교 오류"]]></title>
         <id>https://v.daum.net/v/20211205222813612</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20211201202508353"/>
         <updated>2021-12-01T12:34:36.687Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 2018년 음주운전 사고로  세상을 떠난 윤창호 씨, 음주운전자에 대한 처벌 기준을 강화하기 위해 그의 이름을 딴 윤창호법이 만들어졌죠. 그런데 "두 번째 음주운전부터 처벌을 강화한다"는 법 조항에 대해 최근 위헌 결정이 내려졌습니다. 이후 윤창호법으로 가중 처벌을 받은 개인은 처벌이 약해질거라 환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]'윤창호 법' 위헌..래퍼 노엘도 구제?]]></title>
-        <id>https://v.daum.net/v/20211201200456920</id>
-        <link href="https://v.daum.net/v/20211201200456920"/>
-        <updated>2021-12-01T11:18:43.116Z</updated>
-        <content type="html"><![CDATA[지난달 25일 이곳 헌법재판소에서&nbsp;2번 이상 음주운전 적발 시 가중 처벌하는&nbsp;이른바 '윤창호법' 핵심 조항에 위헌 결정을 내렸습니다. 소식을 접한&nbsp;음주운전 전력자들이 감경을 받으려고&nbsp;재심 요청을 준비한다는데,&nbsp;기대대로 될지 확인해 봅니다. 윤창호법이 발효된 2019년 이후&nbsp;음주운전으로 두 번 이상&nbsp;적발된 사람은 15만 명에 이릅니다. 이 가운데]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크K] '오미크론', 시진핑 의식한 이름? WHO에 물어봤더니..]]></title>
-        <id>https://v.daum.net/v/20211201151530878</id>
-        <link href="https://v.daum.net/v/20211201151530878"/>
-        <updated>2021-12-01T06:27:01.506Z</updated>
-        <content type="html"><![CDATA[겨울의 문턱에 등장한 코로나19 신종 변이 바이러스의 충격이 전 세계에 확산하고 있습니다. 이 변이 바이러스는 지난달 초 남아프리카에서 처음 발견됐습니다. 세계보건기구(WHO)는 지난달 26일(현지시간) 이 바이러스에 '오미크론(ο)'이라는 이름을 붙이고 '우려 변이' 로 분류했습니다. 전파력이 기존보다 더 강하고 치명률도 높을 수 있다고 추정했기 때문입]]></content>
     </entry>
 </feed>

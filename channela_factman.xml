@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5157383</id>
     <title>다음 뉴스 ─ 채널A 팩트맨</title>
-    <updated>2021-12-06T10:24:14.824Z</updated>
+    <updated>2021-12-06T11:20:31.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['과자봉지 딱지' 재활용 불가?]]></title>
+        <id>https://v.daum.net/v/20211206200356104</id>
+        <link href="https://v.daum.net/v/20211206200356104"/>
+        <updated>2021-12-06T11:19:03.770Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨 5백 회를 맞아서 그간 제보해주신 내용 중 &lt;재활용 제대로 하는 법&gt;, Q&amp;A로 풀어봅니다. 시청자 이정수 님께서 "라면이나 과자 봉지가표면은 비닐인데 내부는 은박지라 재활용되는지 궁금하다"는 제보 주셨는데요. Q. 먼저 라면 봉지, 비닐류로 재활용될까요? A. 사실상 어렵습니다. 플라스틱 종류는 이렇게 다양합니다. 그 중 적잖은 라]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이즈 환자가 오미크론 변이 기원?]]></title>
         <id>https://v.daum.net/v/20211202194856172</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211115200651481"/>
         <updated>2021-11-15T11:18:37.401Z</updated>
         <content type="html"><![CDATA[하얗게 내린 눈으로 온 산이 뒤덮였습니다. 사람들도 한껏 들떴습니다. "눈이 너무 예쁘게 와서 마치 겨울왕국 동화 속에 들어와 있는 것 같아서 너무 좋은 것 같아요." 올해 첫눈은 서울지역 기준 지난해보다 한 달 빨리 찾아왔습니다. 첫눈이 일찍 오면 그해 겨울이 더 춥다는 속설, 정말인지 따져봅니다. 결론부터 말씀드리면 눈이 일찍 왔다고 해]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이집 종교수업은 아동학대?]]></title>
-        <id>https://v.daum.net/v/20211111201452654</id>
-        <link href="https://v.daum.net/v/20211111201452654"/>
-        <updated>2021-11-11T11:19:13.752Z</updated>
-        <content type="html"><![CDATA[경기도의 한 시립 어린이집이 종교 교육 논란에 휩싸였습니다. "커피 마시면 지옥 간다." 원장이 아이들에게 이런 말을 했다면서, 학부모들이 경찰에 신고까지 했는데요. 부모나 자녀 본인의 동의 없는 종교 수업, 해도 되는지 확인해 봅니다. 교육부와 보건복지부가 유치원과 어린이집에 적용하는 교육 지침입니다. "종교를 이유로 차별받지 않아야 한다]]></content>
     </entry>
 </feed>
