@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-06T12:37:58.061Z</updated>
+    <updated>2021-12-06T13:28:55.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["검찰 출신이 윤석열 선대위 장악" 주장은 '대체로 사실' [오마이팩트]]]></title>
+        <id>https://v.daum.net/v/20211206204508461</id>
+        <link href="https://v.daum.net/v/20211206204508461"/>
+        <updated>2021-12-06T13:28:54.938Z</updated>
+        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 6일 오후 서울 송파구 올림픽공원 KSPO돔에서 열린 국민의힘 중앙선거대책위원회 출범식에서 김종인 총괄선대위원장, 김병준ㆍ이준석 상임선대위원장과 대선 승리를 기원하며 인사하고 있다.    ⓒ 국회사진취재단  &nbsp;[검증대상] 민주당 "검찰 출신 권력이 윤석열 선대위 장악" 더불어민주당이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] 술김에 전동킥보드 탔다가..차 면허도 취소?]]></title>
         <id>https://v.daum.net/v/20211206201604226</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211201221008857"/>
         <updated>2021-12-01T13:27:56.593Z</updated>
         <content type="html"><![CDATA[[앵커] 전 세계를 패닉으로 몰아넣고 있는 오미크론이, 에이즈 환자에게서 비롯됐다는 보도가 잇따르고 있습니다. 이 '에이즈 기원설'의 근거는 뭔지, 팩트체크했습니다. 팩트와이, 신지원 기자입니다. [기자] 일상 회복으로 한 걸음씩 나아가던 전 세계를 다시 얼어 붙게 만든 새로운 코로나19 변이 바이러스, 오미크론. '에이즈 환자에게서 처음 발생했]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] "위헌" 윤창호법..상습음주운전 처벌 약해지나]]></title>
-        <id>https://v.daum.net/v/20211201202508353</id>
-        <link href="https://v.daum.net/v/20211201202508353"/>
-        <updated>2021-12-01T12:34:36.687Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난 2018년 음주운전 사고로  세상을 떠난 윤창호 씨, 음주운전자에 대한 처벌 기준을 강화하기 위해 그의 이름을 딴 윤창호법이 만들어졌죠. 그런데 "두 번째 음주운전부터 처벌을 강화한다"는 법 조항에 대해 최근 위헌 결정이 내려졌습니다. 이후 윤창호법으로 가중 처벌을 받은 개인은 처벌이 약해질거라 환]]></content>
     </entry>
 </feed>
