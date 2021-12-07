@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-07T10:25:44.646Z</updated>
+    <updated>2021-12-07T11:19:58.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]대형서점이 지하에 있는 이유?]]></title>
+        <id>https://v.daum.net/v/20211207200158433</id>
+        <link href="https://v.daum.net/v/20211207200158433"/>
+        <updated>2021-12-07T11:19:58.025Z</updated>
+        <content type="html"><![CDATA[오늘 팩트맨은 서울 광화문에 있는 대형 서점 앞에서 시작합니다. 최근 온라인 공간에는 대형 서점들이 주로 지하에 있는 이유를 묻는 질문들이 많은데, 실제로 그런지, 이유는 뭔지 따져 봅니다. 대형 서점이 주로 지하에 있는 이유, 책 무게 때문입니다. 국토교통부 건축구조기준을 보면, 건물은 용도에 따라 단위 면적당 견뎌야 하는 하중이 정해져 있습니]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["검찰 출신이 윤석열 선대위 장악" 주장은 '대체로 사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20211206204508461</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211202194856172"/>
         <updated>2021-12-02T11:18:34.846Z</updated>
         <content type="html"><![CDATA[코로나19 변이 바이러스 오미크론이&nbsp;전세계적으로 확산 중입니다. 국내외에선 이 변이의 출발점을&nbsp;후천성 면역 결핍증,&nbsp;즉 에이즈 환자로&nbsp;지목하는 보도가 나오고 있는데&nbsp;근거가 있는지 따져봅니다. 오미크론 변이의 에이즈 환자 기원설은&nbsp;지난달 영국의 한 과학저널에 실린 글을&nbsp;근거로 삼고 있습니다. 영국 런던 유전학 연구소 소장이&nbsp;"치료를 안 받은 에이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 오미크론, 에이즈 환자에게서 처음 나타났다?]]></title>
-        <id>https://v.daum.net/v/20211201221008857</id>
-        <link href="https://v.daum.net/v/20211201221008857"/>
-        <updated>2021-12-01T13:27:56.593Z</updated>
-        <content type="html"><![CDATA[[앵커] 전 세계를 패닉으로 몰아넣고 있는 오미크론이, 에이즈 환자에게서 비롯됐다는 보도가 잇따르고 있습니다. 이 '에이즈 기원설'의 근거는 뭔지, 팩트체크했습니다. 팩트와이, 신지원 기자입니다. [기자] 일상 회복으로 한 걸음씩 나아가던 전 세계를 다시 얼어 붙게 만든 새로운 코로나19 변이 바이러스, 오미크론. '에이즈 환자에게서 처음 발생했]]></content>
     </entry>
 </feed>
