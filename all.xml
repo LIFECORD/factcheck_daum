@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/factcheck_daum/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-08T19:19:20.218Z</updated>
+    <updated>2021-12-08T20:22:57.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[허경영이 말한 'TV 토론', 꼼꼼히 따져봤습니다 (다음 뉴스 ─ SBS 사실은)]]></title>
@@ -593,6 +593,13 @@
         <content type="html"><![CDATA[[앵커] 이번엔 백신을 이미 맞으신 분들이 궁금해하실 만한 내용입니다. 백신은 다 맞았는데 내 몸에, 항체가 제대로 생긴 건지 혹시, 돌파감염 되는 건 아닌지 걱정이 돼서 항체 검사를 해봤거나, 해보려는 분들 계실 겁니다. 병원에서 돈내고 검사 받기도 하고, 약국에서 검사 도구를 팔기도 하는데요, 이 결과를 너무 믿어서는 안 된다고 합니다. 팩트체크팀 최재]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[팩트와이] 정치 홍보물, 코카콜라는 되고 오뚜기는 안 된다? (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211209045210624</id>
+        <link href="https://v.daum.net/v/20211209045210624"/>
+        <updated>2021-12-08T20:22:56.639Z</updated>
+        <content type="html"><![CDATA[[앵커] 최근 이재명 후보 지지자들이 오뚜기 상표를 패러디한 홍보 콘텐츠를 만들어 논란이 일었습니다. 오뚜기 측이 상표권 침해라며 항의해 해당 인터넷 사이트는 운영을 중단했는데요. 정치인 홍보에 특정 기업의 상표나 제품 이미지를 쓰는 건 불법일까요? 신지원 기자가 팩트체크했습니다. [기자] 국민의힘 홍준표 의원의 유튜브 채널, 홍카콜라. 코카콜]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[사실확인] 오미크론 변이, 공기 중 전파 가능성 있나? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211208205708045</id>
         <link href="https://v.daum.net/v/20211208205708045"/>
@@ -654,12 +661,5 @@
         <link href="https://v.daum.net/v/20211206201604226"/>
         <updated>2021-12-06T11:20:30.998Z</updated>
         <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 최근 유명 전직 야구 선수가 만취한 채 전동킥보드를 타다가 적발이 돼서 운전면허가 취소됐다는 소식 알려졌죠. 이게 자동차 면허까지 취소될 일인가라고 놀라는 분들도 있는데, 최근 연말연시 술자리가 늘면서 킥보드 음주운전이 늘어날 조짐이 보이고 있습니다. 술김에 섣불리 킥보드를 집어 타다가 어떤 처벌 받을 수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]'과자봉지 딱지' 재활용 불가? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211206200356104</id>
-        <link href="https://v.daum.net/v/20211206200356104"/>
-        <updated>2021-12-06T11:19:03.770Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨 5백 회를 맞아서 그간 제보해주신 내용 중 &lt;재활용 제대로 하는 법&gt;, Q&amp;A로 풀어봅니다. 시청자 이정수 님께서 "라면이나 과자 봉지가표면은 비닐인데 내부는 은박지라 재활용되는지 궁금하다"는 제보 주셨는데요. Q. 먼저 라면 봉지, 비닐류로 재활용될까요? A. 사실상 어렵습니다. 플라스틱 종류는 이렇게 다양합니다. 그 중 적잖은]]></content>
     </entry>
 </feed>
