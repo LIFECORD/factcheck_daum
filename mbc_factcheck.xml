@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5165002</id>
     <title>다음 뉴스 ─ MBC 알고보니</title>
-    <updated>2021-12-08T11:19:38.317Z</updated>
+    <updated>2021-12-08T12:34:31.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대재해법 때문에 몸 아프면 안 뽑는다?]]></title>
+        <id>https://v.daum.net/v/20211208202209507</id>
+        <link href="https://v.daum.net/v/20211208202209507"/>
+        <updated>2021-12-08T12:33:36.200Z</updated>
+        <content type="html"><![CDATA[[뉴스데스크] 알고보니 시작합니다. 내년 1월 중대재해처벌법 시행이 다가오면서 관련 보도들이 늘고 있습니다. 특히 이번 주 고 김용균씨 3주기 추모기간을 맞아 여전히 위험한 일터에 대한 고발도  이어지고 있는데요. 반면 이런 보도들도 있습니다. 이 중대재해법때문에 조금이라도 몸이 아프면 기업들이 채용을 거부해 '취업준비생들이 날벼락을 맞는다'는 내용]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[술김에 전동킥보드 탔다가..차 면허도 취소?]]></title>
         <id>https://v.daum.net/v/20211206201604226</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20211030102519633"/>
         <updated>2021-10-30T02:02:32.833Z</updated>
         <content type="html"><![CDATA[고(故) 노태우 전 대통령의 국가장(國家葬)을 둘러싸고 논란입니다. 전직 대통령에 대한 예우와 국민 통합을 위한 조치라는 입장과, 군사반란과 국민학살을 저지른 과오에 비춰 과도한 예우라는 지적이 부딪치고 있습니다. 중대한 범죄를 저지르면 전직 대통령의 국가장 치를 수 없게 국가장법을 개정해야한다는 주장도 힘을 얻고 있습니다. 이미 관련법 개정안은 10년 가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 최고 출산율 세종시..'육아휴직 3년'이 비결?]]></title>
-        <id>https://v.daum.net/v/20211028202814974</id>
-        <link href="https://v.daum.net/v/20211028202814974"/>
-        <updated>2021-10-28T12:31:45.247Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 지난해 우리나라의 출산율은 0.84명, 올해는 이보다 더 떨어질거란 전망입니다. 이번 대선에서도 저출산 문제 어떻게 해결할 것인가 후보들마다 해법을 내놓고 있는데요. 어제 국민의힘 경선 토론에서 나왔던 말입니다. [유승민/국민의힘 대선 경선후보(어제)] "세종시에 가면 출산율이 OECD 평균 비슷하거든요.]]></content>
     </entry>
 </feed>
