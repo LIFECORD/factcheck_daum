@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/series/5175756</id>
     <title>다음 뉴스 ─ 오마이뉴스 오마이팩트</title>
-    <updated>2021-12-08T01:08:57.161Z</updated>
+    <updated>2021-12-08T02:38:01.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/series/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["윤석열의 최저임금 폐지 발언은 위헌적" 지적은 '대체로 사실']]></title>
+        <id>https://v.daum.net/v/20211206111500949</id>
+        <link href="https://v.daum.net/v/20211206111500949"/>
+        <updated>2021-12-08T02:37:48.658Z</updated>
+        <content type="html"><![CDATA[[박수림 기자] &nbsp;        ▲ &nbsp;국민의힘 윤석열 대선 후보가 지난 11월 30일 오후 충북 청주시 청원구에 위치한 우수강소기업 클레버를 방문해 2차전지 제조설비를 살펴보고 있다.    ⓒ 연합뉴스  &nbsp;[검증대상] 민주당 "윤석열의 최저임금 철폐 발언은 위헌적" "정부의 최저시급(최저임금제)이나 주 52시간제는 일부 중소기업이나 창의적 업무에 비현실적이]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["산부인과 명칭은 일제 잔재" 이재명 주장은 '사실 반 거짓 반']]></title>
         <id>https://v.daum.net/v/20211126231201564</id>
@@ -81,12 +88,5 @@
         <link href="https://v.daum.net/v/20210722063907010"/>
         <updated>2021-10-12T05:48:15.162Z</updated>
         <content type="html"><![CDATA[[김시연, 임안젤 기자] ▲ &nbsp;이재명 경기도지사와 이낙연 전 대표가 8일 오후 서울 중구 TV조선 스튜디오에서 열린 TV조선, 채널A 공동 주관 토론회에 참석해 인사를 나누고 있다.    ⓒ 국회사진취재단  &nbsp;저보고 어떤 분들이 자꾸 말 바꿨다고 공격하는데 저는 태세전환이 더 문제라고 하고 싶은 거예요. 저는 5.18을 비난했다가 바뀐 사람이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부가 최저임금 더 올렸다? <중앙>의 통계 왜곡]]></title>
-        <id>https://v.daum.net/v/20210716131508395</id>
-        <link href="https://v.daum.net/v/20210716131508395"/>
-        <updated>2021-10-12T05:48:15.164Z</updated>
-        <content type="html"><![CDATA[[김시연 기자] ▲ &nbsp;박준식 최저임금위원회 위원장(왼쪽 두번째)이 13일 새벽 제9차 전원회의 뒤 이어진 기자회견을 마친 뒤 회의장을 나서고 있다. 2022년도 최저임금은 9160원으로 결정됐다.    ⓒ 연합뉴스  &nbsp;[검증 대상] "문재인 정부가 박근혜 정부보다 최저임금 더 올렸다"는 언론 보도 최저임금위원회는 지난 12일 2022년 시간당]]></content>
     </entry>
 </feed>
