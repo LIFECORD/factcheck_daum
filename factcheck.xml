@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-08T10:24:22.558Z</updated>
+    <updated>2021-12-08T11:19:38.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]오미크론, 공기 전파 가능?]]></title>
+        <id>https://v.daum.net/v/20211208200759036</id>
+        <link href="https://v.daum.net/v/20211208200759036"/>
+        <updated>2021-12-08T11:19:37.810Z</updated>
+        <content type="html"><![CDATA[국내외에서 오미크론 변이 바이러스의 공기 전파 가능성이 확산하고 있습니다. 이게 정말 가능한 건지, 팩트맨이 확인해봅니다. 인천에서 식당을 운영하는 30대 여성, 마스크를 끼고 오미크론 감염자와 1분 정도 대화했는데 확진 판정을 받았다는 보도가 있었습니다. 방역당국은 1분이라는 시간까지 특정할 수는 없지만, "공기 전파 가능성 열어두고 조사 중"]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 허경영이 말한 'TV 토론', 꼼꼼히 따져봤습니다]]></title>
         <id>https://v.daum.net/v/20211208103300983</id>
@@ -66,13 +73,6 @@
         <id>https://v.daum.net/v/20211205222813612</id>
         <link href="https://v.daum.net/v/20211205222813612"/>
         <updated>2021-12-05T14:19:32.219Z</updated>
-        <content type="html"><![CDATA[[앵커] 역대 선거에서 호남 지역은 민주당의 텃밭이기도 했지만, 시대 흐름과 선거 판세를 점치는 지표 역할도 해왔습니다. 그런데, 최근 이재명 후보의 호남 지지율이 신통치 않다는 분석이 나오면서 토론회에서도 쟁점이 됐는데요. 실제로 그런지 팩트체크 했습니다. 팩트와이, 신지원 기자입니다. [기자] [김환주 / KBS 해설위원 (지난 2일, 방송기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트와이] 이재명 호남 지지율 낮다?.."지지율·득표율 비교 오류"]]></title>
-        <id>https://v.daum.net/v/20211205073712786</id>
-        <link href="https://v.daum.net/v/20211205073712786"/>
-        <updated>2021-12-04T23:22:09.882Z</updated>
         <content type="html"><![CDATA[[앵커] 역대 선거에서 호남 지역은 민주당의 텃밭이기도 했지만, 시대 흐름과 선거 판세를 점치는 지표 역할도 해왔습니다. 그런데, 최근 이재명 후보의 호남 지지율이 신통치 않다는 분석이 나오면서 토론회에서도 쟁점이 됐는데요. 실제로 그런지 팩트체크 했습니다. 팩트와이, 신지원 기자입니다. [기자] [김환주 / KBS 해설위원 (지난 2일, 방송기]]></content>
     </entry>
 </feed>
