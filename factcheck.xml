@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-12-09T10:25:14.273Z</updated>
+    <updated>2021-12-09T11:19:21.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 노재승 '김구 비하' 발언, 역사학자들의 진단은?]]></title>
+        <id>https://v.daum.net/v/20211209200904471</id>
+        <link href="https://v.daum.net/v/20211209200904471"/>
+        <updated>2021-12-09T11:19:20.531Z</updated>
+        <content type="html"><![CDATA[[앵커] 노재승 전 위원장이 사퇴했고, 사과도 했지만 과거 발언이 팩트에 기반한 것이냐, 아니냐를 따지는 일은 여전히 남아 있습니다. 저희 팩트체크팀이 백범 김구 선생을 비하한 주장을 확인해봤습니다. 최재원 기자입니다. [기자] 노재승 전 국민의힘 공동선대위원장이 지난 광복절에 쓴 소셜미디어 글입니다. 김구 선생에 대해 "국밥 좀 늦게 나왔다고 사람을 죽였]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]확진자 응시 금지하면 손해배상?]]></title>
+        <id>https://v.daum.net/v/20211209194757012</id>
+        <link href="https://v.daum.net/v/20211209194757012"/>
+        <updated>2021-12-09T11:19:20.531Z</updated>
+        <content type="html"><![CDATA[지난해 코로나19 확진으로 1차 임용고시 못 본 수험생들. "감염병 때문에 취업 기회를 박탈당했고, 1년 이상 공부했던 수험생 입장에서는 너무 지옥 같더라고요." "임용 기회 박탈" 수험생, 국가에 손해배상 청구 그리고 오늘… "국가가 배상해야" 수험생 손 들어준 법원 "(수능시험과 중등임용고시 2차에선) 코로나19 확진자도 응시를 인정했지만]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국 '이코노미스트'가 찍은 후보들 낙선?.. '대체로 사실' [오마이팩트]]]></title>
         <id>https://v.daum.net/v/20211209071508287</id>
@@ -60,19 +74,5 @@
         <link href="https://v.daum.net/v/20211207203708826"/>
         <updated>2021-12-07T12:36:29.763Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 다른 누군가가 SNS에서 내 행세를 한다면 얼마나 당황스러울까요? 초상권 침해나 명예훼손 등을 물을 수 있을 것 같긴 한데, 신고를 하면 형사 처벌이 될까요? 이규연 기자가 사실확인에서 알아봤습니다. 【 기자 】 지난 10월 SNS에 드라마 '오징어게임'에 출연한 배우 오영수 씨의 계정이 등장했습니다. 배우 이정재 씨까지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트맨]대형서점이 지하에 있는 이유?]]></title>
-        <id>https://v.daum.net/v/20211207200158433</id>
-        <link href="https://v.daum.net/v/20211207200158433"/>
-        <updated>2021-12-07T11:19:58.025Z</updated>
-        <content type="html"><![CDATA[오늘 팩트맨은 서울 광화문에 있는 대형 서점 앞에서 시작합니다. 최근 온라인 공간에는 대형 서점들이 주로 지하에 있는 이유를 묻는 질문들이 많은데, 실제로 그런지, 이유는 뭔지 따져 봅니다. 대형 서점이 주로 지하에 있는 이유, 책 무게 때문입니다. 국토교통부 건축구조기준을 보면, 건물은 용도에 따라 단위 면적당 견뎌야 하는 하중이 정해져 있습니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["검찰 출신이 윤석열 선대위 장악" 주장은 '대체로 사실' [오마이팩트]]]></title>
-        <id>https://v.daum.net/v/20211206204508461</id>
-        <link href="https://v.daum.net/v/20211206204508461"/>
-        <updated>2021-12-06T13:28:54.938Z</updated>
-        <content type="html"><![CDATA[[김시연, 박수림 기자] ▲ &nbsp;국민의힘 윤석열 대선 후보가 6일 오후 서울 송파구 올림픽공원 KSPO돔에서 열린 국민의힘 중앙선거대책위원회 출범식에서 김종인 총괄선대위원장, 김병준ㆍ이준석 상임선대위원장과 대선 승리를 기원하며 인사하고 있다.    ⓒ 국회사진취재단  &nbsp;[검증대상] 민주당 "검찰 출신 권력이 윤석열 선대위 장악" 더불어민주당이]]></content>
     </entry>
 </feed>
